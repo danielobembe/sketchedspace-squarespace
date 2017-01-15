@@ -17,6 +17,7 @@
 
         <div id="global_navigation" class="clearfix">
           <!-- Insert navigation + pages here -->
+          <squarespace:navigation navigationId="mainNav" template="main-navigation"/>
 
           <ul class="social">
             <li><a href="https://www.instagram.com/younglae_cho/" target="_blank">Instagram</a></li>
