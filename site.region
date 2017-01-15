@@ -9,19 +9,27 @@
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 
+    <header>
+      <h1><a href="/">
+              <span>S</span><span>K</span><span>E</span><span>T</span><span>C</span><span>H</span><span>E</span><span>D</span><span>S</span><span>P</span><span>A</span><span>C</span><span>E</span>
+          </a></h1>
+    </header>
+
     <div class="site-container">
 
-      <header class="site-header">
-        <!-- site navigation -->
+
+
+      <!-- <header class="site-header">
+
         <squarespace:navigation navigationId="siteNav" template="site-navigation" />
 
-        <!-- site title or logo -->
+        
         {.section website}
           <h1 class="site-title-heading" data-content-field="site-title">
             <a href="/" class="site-title-link">{siteTitle}</a>
           </h1>
         {.end}
-      </header>
+      </header> -->
 
       <!-- cms content injection point -->
       <main class="content-container" role="main" data-content-field="main-content">
