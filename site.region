@@ -77,26 +77,17 @@
           <p class="eng" id="contact-details">
             Younglae Cho / +821041708358 / younglae[at]sketchedspace[dot]com
           </p>
-          
+
         </div>
       </div>
     </section>
 
-
-    <div class="site-container">
-
-
       <!-- cms content injection point -->
-      <main class="content-container" role="main" data-content-field="main-content">
+      <!-- <main class="content-container" role="main" data-content-field="main-content">
        {squarespace.main-content}
-      </main>
+      </main> -->
 
-      <!--Footer with open block field -->
-      <footer class="site-footer">
-        <squarespace:block-field id="footerBlocks" columns="12" />
-      </footer>
 
-    </div>
 
     <!-- combo and minify scripts when not logged in -->
     <squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
