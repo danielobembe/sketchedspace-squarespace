@@ -64,7 +64,7 @@
       <div class="row">
         <div class="col-sm-10">
 
-          <h1 id="main-title" data-content-field="title">{item.title}</h1>
+          <h1 id="main-title" data-content-field="title">CONCEPT</h1>
 
           <p class="eng">
               SKETCHEDSPACE is a progressive global art agency based in Seoul that is dedicated to curate artful solo and group exhibitions working closely with artists who are contemporary in projecting their sensitivities by using dynamic mediums. By liberating art from one kind to everything, we advocate unrestrained approaches in actualising complex artistic concepts, while upholding the structure, ambience and story of the venue. By carefully assembling complementary artistic creations based on their atmospheres and technical brilliance, SKETCHEDSPACE maximizes the artists’ creativities and offer a multi-sensory experiences to the audience.
