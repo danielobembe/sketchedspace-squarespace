@@ -58,30 +58,3 @@
           <h1 id="main-title">
             <squarespace:block-field id="_main_title_{squarespace.page-id}" columns="12"/>
           </h1>
-
-          <!--
-
-          -->
-
-          <!--Task: create multiple layouts -->
-          <!-- {@|apply concept-conent.block} -->
-
-        </div>
-      </div>
-    </section>
-
-      <!-- cms content injection point -->
-      <!-- <main class="content-container" role="main" data-content-field="main-content">
-       {squarespace.main-content}
-      </main> -->
-
-
-
-    <!-- combo and minify scripts when not logged in -->
-    <squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
-
-    <!-- other scripts, and footer code injection -->
-    {squarespace-footers}
-
-  </body>
-</html>
