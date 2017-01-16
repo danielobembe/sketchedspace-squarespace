@@ -57,28 +57,28 @@ abbr,acronym { border: 0;
 @font-face {
     font-family: 'din-regular';
     src:
-        url('/assets/fonts/DIN-Regular.woff2') format('woff2'),
-        url('/assets/fonts/DIN-Regular.woff') format('woff'),
-        url('/assets/fonts/DIN-Regular.ttf') format('ttf'),
-        url('/assets/fonts/DIN-Regular.otf') format('otf');}
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Regular.woff2') format('woff2'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Regular.woff') format('woff'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Regular.ttf') format('ttf'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Regular.otf') format('otf');}
 @font-face {
     font-family: 'din-medium';
     src:
-        url('/assets/fonts/DIN-Medium.woff2') format('woff2'),
-        url('/assets/fonts/DIN-Medium.woff') format('woff'),
-        url('/assets/fonts/DIN-Medium.ttf') format('ttf'),
-        url('/assets/fonts/DIN-Medium.otf') format('otf');}
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Medium.woff2') format('woff2'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Medium.woff') format('woff'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Medium.ttf') format('ttf'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Medium.otf') format('otf');}
 @font-face {
     font-family: 'din-bold';
     src:
-        url('/assets/fonts/DIN-Bold.woff2') format('woff2'),
-        url('/assets/fonts/DIN-Bold.woff') format('woff'),
-        url('/assets/fonts/DIN-Bold.ttf') format('ttf'),
-        url('/assets/fonts/DIN-Bold.otf') format('otf');}
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Bold.woff2') format('woff2'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Bold.woff') format('woff'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Bold.ttf') format('ttf'),
+        url('https://aaron-cho-mmjz.squarespace.com/assets/DIN-Bold.otf') format('otf');}
 @font-face {
     font-family: 'apple-sd-gothic-neo';
     src:
-        url('/assets/fonts/AppleSDGothicNeoR00.ttf') format('ttf');}
+        url('https://aaron-cho-mmjz.squarespace.com/assets/AppleSDGothicNeoR00.ttf') format('ttf');}
     /*  END: IMPORTED FONTS */
 
 section {
