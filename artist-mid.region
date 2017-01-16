@@ -4,7 +4,7 @@
   <!-- Column 1 Begin -->
       <div class="project">
              <div class="image">
-                 <img src="http://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
+                 <img src="https://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
              </div>
              <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #"></li>
                  <li class="title">Yelin Kim</li>
@@ -15,7 +15,7 @@
 
          <div class="project project-bottom">
                  <div class="image">
-                     <img src="http://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
+                     <img src="https://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
                  </div>
                  <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #84fd85"></li>
                      <li class="title">Xin Seha</li>
@@ -29,7 +29,7 @@
      <!-- Column 2 Begin -->
         <div class="project project-right" >
                 <div class="image">
-                    <img src="http://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
+                    <img src="https://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
                 </div>
                 <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #fffd88"></li>
                     <li class="title">Jiyen Lee</li>
@@ -40,7 +40,7 @@
 
        <div class="project project-bottom project-right" style="margin-left:-120px;">
                 <div class="image">
-                    <img src="http://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
+                    <img src="https://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
                 </div>
                 <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #8083fc"></li>
                     <li class="title">Dongwhan Wang</li>
