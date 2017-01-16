@@ -55,11 +55,9 @@
 
           <h1 id="main-title" data-content-field="title">{title}</h1>
 
+          <squarespace:block-field id="blockField1" columns="12"/>
+
           {@|apply concept-conent.block}
-
-
-
-
 
         </div>
       </div>
