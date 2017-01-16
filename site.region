@@ -59,12 +59,6 @@
             <squarespace:block-field id="_main_title_{squarespace.page-id}" columns="12"/>
           </h1>
 
-          <!--
-
-          -->
-
-          <!--Task: create multiple layouts -->
-          <!-- {@|apply concept-conent.block} -->
 
         </div>
       </div>
