@@ -60,7 +60,7 @@
           </h1>
 
           <p class="eng">
-            <squarespace:block-field id="_concept-eng" columns="12"/>
+            <squarespace:block-field id="_concept-eng" class="eng" columns="12"/>
           </p>
 
           <p class="kor" id="kor-concept">
