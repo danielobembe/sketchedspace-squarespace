@@ -59,8 +59,9 @@
             <squarespace:block-field id="_main_title" columns="12"/>
           </h1>
 
+          <!--
           <p class="eng">
-            <squarespace:block-field id="_concept-eng" class="eng" columns="12"/>
+            <squarespace:block-field id="_concept-eng" columns="12"/>
           </p>
 
           <p class="kor" id="kor-concept">
@@ -70,6 +71,9 @@
           <p class="eng" id="contact-details">
             <squarespace:block-field id="_contact-details" columns="12"/>
           </p>
+          -->
+
+          <!--Task: create multiple layouts -->
           <!-- {@|apply concept-conent.block} -->
 
         </div>
