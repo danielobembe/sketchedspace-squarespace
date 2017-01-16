@@ -1,0 +1,53 @@
+<div id="project-container" class="row">
+
+  <div class="col-xs-12 col-md-7">
+  <!-- Column 1 Begin -->
+      <div class="project">
+             <div class="image">
+                 <img src="http://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
+             </div>
+             <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #"></li>
+                 <li class="title">Yelin Kim</li>
+                 <li class="day_location">1979 - Seoul, S.Korea</li>
+             </ul>
+       </div>
+
+
+         <div class="project project-bottom">
+                 <div class="image">
+                     <img src="http://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
+                 </div>
+                 <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #84fd85"></li>
+                     <li class="title">Xin Seha</li>
+                     <li class="day_location">1993 - Seoul, S.Korea</li>
+                 </ul>
+         </div>
+     <!-- Column 1 End -->
+     </div>
+
+     <div div class="col-xs-12 col-md-4">
+     <!-- Column 2 Begin -->
+        <div class="project project-right" >
+                <div class="image">
+                    <img src="http://aaron-cho-mmjz.squarespace.com/assets/vertical_loremPixel_dot_com.jpg">
+                </div>
+                <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #fffd88"></li>
+                    <li class="title">Jiyen Lee</li>
+                    <li class="day_location">1979 - Seoul, S.Korea</li>
+                </ul>
+         </div>
+
+
+       <div class="project project-bottom project-right" style="margin-left:-120px;">
+                <div class="image">
+                    <img src="http://aaron-cho-mmjz.squarespace.com/assets/horizontal_loremPixel_dot_com.jpg">
+                </div>
+                <ul class="text" style="opacity: 1;">               <li class="color" style="background-color: #8083fc"></li>
+                    <li class="title">Dongwhan Wang</li>
+                    <li class="day_location">1979 - Seoul, S.Korea</li>
+                </ul>
+        </div>
+     <!-- Column 2 End -->
+     </div>
+
+</div>
