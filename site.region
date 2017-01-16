@@ -55,8 +55,8 @@
 
           <!-- <h1 " data-content-field="title">{title}</h1> -->
 
-          <h1>
-            <squarespace:block-field id="_main_title" columns="12"/>
+          <h1 id="main-title">
+            <squarespace:block-field id="_main_title_{squarespace.page-id}" columns="12"/>
           </h1>
 
           <!--
