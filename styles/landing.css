@@ -18,7 +18,7 @@
 .template-splash, .template-splash > body {
     height:100%;
     font-family: "din-regular","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: blue;
+    /*background-color: blue;*/
 }
 
 .template-splash h1 {
@@ -37,7 +37,9 @@
   margin: 0 auto;
   max-width: 500px;
   height:100%;
-  overflow:hidden;
+  overflow:visible;
+  background: grey;
+
 }
 
 .template-splash .container a {
