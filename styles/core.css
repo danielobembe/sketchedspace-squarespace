@@ -1509,3 +1509,7 @@ abbr,acronym { border: 0;
 		    width:20%;
 		    padding-bottom: 8%;
 		}
+
+		.justified {
+			text-align: justify;
+		}
