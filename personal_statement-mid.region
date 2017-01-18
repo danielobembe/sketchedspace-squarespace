@@ -8,27 +8,30 @@
       <div>
         <!-- Nav tabs -->
         <ul class="nav nav-tabs right-to-left"  role="tablist" style="border-bottom:0px">
-          <li role="presentation" class="active" style="display:none" ><a href="#home{squarespace.page-id}" aria-controls="home{squarespace.page-id}" role="tab" data-toggle="tab">Home</a></li>
-          <li role="presentation"><a href="#works{squarespace.page-id}" aria-controls="works{squarespace.page-id}" role="tab" data-toggle="tab">Works</a></li>
-          <li role="presentation"><a href="#exhibitions{squarespace.page-id}" aria-controls="exhibitions{squarespace.page-id}" role="tab" data-toggle="tab">Exhibitions</a></li>
+          <li role="presentation" class="active" style="display:none" ><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
+          <li role="presentation"><a href="#works" aria-controls="works" role="tab" data-toggle="tab">Works</a></li>
+          <li role="presentation"><a href="#exhibitions" aria-controls="exhibitions" role="tab" data-toggle="tab">Exhibitions</a></li>
         </ul>
 
         <!-- Tab panes -->
         <div class="tab-content">
-          <div role="tabpanel" class="tab-pane active" id="home{squarespace.page-id}">
+          <div role="tabpanel" class="tab-pane active" id="home">
             <p class="eng">
-              <squarespace:block-field id="statement_{squarespace.page-id}" columns="12"/>
+              <!-- <squarespace:block-field id="statement_{squarespace.page-id}" columns="12"/> -->
+              Home
             </p>
           </div>
 
-          <div role="tabpanel" class="tab-pane" id="works{squarespace.page-id}">
+          <div role="tabpanel" class="tab-pane" id="works">
             <p class="eng">
-              <squarespace:block-field id="works_{squarespace.page-id}" columns="12"/>
+              <!-- <squarespace:block-field id="works_{squarespace.page-id}" columns="12"/> -->
+              Works
             </p>
           </div>
 
-          <div role="tabpanel" class="tab-pane" id="exhibitions{squarespace.page-id}">
-            <squarespace:block-field id="exhibitions_{squarespace.page-id}" columns="12"/>
+          <div role="tabpanel" class="tab-pane" id="exhibitions">
+            <!-- <squarespace:block-field id="exhibitions_{squarespace.page-id}" columns="12"/> -->
+            Exhibitions
           </div>
         </div>
 
