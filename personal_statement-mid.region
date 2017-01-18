@@ -17,8 +17,8 @@
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane active" id="home">
             <p class="eng">
-              <!-- <squarespace:block-field id="statement_{squarespace.page-id}" columns="12"/> -->
-              Home
+              <squarespace:block-field id="statement_{squarespace.page-id}" columns="12"/>
+              <!-- Home -->
             </p>
           </div>
 
