@@ -1,0 +1,39 @@
+
+
+      <a href="" class="project-anchor"> <!-- self-refering link i.e point to this page-->
+        <h3 class="artist-title"><squarespace:block-field id="name_{squarespace.page-id}" columns="12"/></h3><!--class = title-->
+        <h4 class="artist-day_location"><squarespace:block-field id="date_{squarespace.page-id}" columns="12"/></h4><!--class="day_location"-->
+      </a>
+
+      <div>
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs right-to-left"  role="tablist" style="border-bottom:0px">
+          <li role="presentation" class="active" style="display:none" ><a href="#home{squarespace.page-id}" aria-controls="home{squarespace.page-id}" role="tab" data-toggle="tab">Home</a></li>
+          <li role="presentation"><a href="#works{squarespace.page-id}" aria-controls="works{squarespace.page-id}" role="tab" data-toggle="tab">Works</a></li>
+          <li role="presentation"><a href="#exhibitions{squarespace.page-id}" aria-controls="exhibitions{squarespace.page-id}" role="tab" data-toggle="tab">Exhibitions</a></li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="home{squarespace.page-id}">
+            <p class="eng">
+              <squarespace:block-field id="statement_{squarespace.page-id}" columns="12"/>
+            </p>
+          </div>
+
+          <div role="tabpanel" class="tab-pane" id="works{squarespace.page-id}">
+            <p class="eng">
+              <squarespace:block-field id="works_{squarespace.page-id}" columns="12"/>
+            </p>
+          </div>
+
+          <div role="tabpanel" class="tab-pane" id="exhibitions{squarespace.page-id}">
+            <squarespace:block-field id="exhibitions_{squarespace.page-id}" columns="12"/>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
