@@ -17,11 +17,11 @@
 
                 <div class="row index-nav">
                     <ul>
-                        <li><a href="/concept.html">Concept</a></li>
-                        <li><a href="/exhibitions.html">Exhibitions</a></li>
-                        <li><a href="/artists.html">Artists</a></li>
-                        <li><a href="/store.html">Store</a></li>
-                        <li><a href="/news.html">News</a></li>
+                        <li><a href="/concept">Concept</a></li>
+                        <li><a href="/exhibitions">Exhibitions</a></li>
+                        <li><a href="/artists">Artists</a></li>
+                        <li><a href="/store">Store</a></li>
+                        <li><a href="/news">News</a></li>
                     </ul>
                 </div>
                 <div class="row index-logo">
