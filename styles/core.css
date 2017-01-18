@@ -1401,7 +1401,7 @@ abbr,acronym { border: 0;
 		}
 
 		.project-bottom {
-		    margin-top: -30px;
+		    margin-top: 40px;
 		}
 
 		.project-right {
@@ -1512,4 +1512,9 @@ abbr,acronym { border: 0;
 
 		.justified {
 			text-align: justify;
+		}
+
+
+		.project-diagonal {
+			margin-top:60px;
 		}
