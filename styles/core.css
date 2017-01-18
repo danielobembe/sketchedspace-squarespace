@@ -1371,11 +1371,11 @@ abbr,acronym { border: 0;
 		section#contents .row .col-sm-10 .project .text > li {
 		    font-family: 'din-regular', sans-serif;
 		}
-		.strike, .active{
+		.strike{
 		    position: relative;
 		}
 
-		.strike::after, .active:after {
+		.strike::after {
 		    content: '';
 		    border-bottom: 2px solid black;
 		    position: absolute;
